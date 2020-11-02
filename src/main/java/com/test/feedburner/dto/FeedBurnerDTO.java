@@ -1,4 +1,4 @@
-package com.test.feedburner;
+package com.test.feedburner.dto;
 
 import java.time.LocalDate;
 

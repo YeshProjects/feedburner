@@ -1,4 +1,4 @@
-package com.test.feedburner;
+package com.test.feedburner.config;
 
 import java.util.ArrayList;
 import java.util.List;
